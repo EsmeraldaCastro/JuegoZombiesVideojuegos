@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 55daccc09a3b69647bbab145b54a3ab3
   - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: a79875aa172cfa3469eb3bc340afdf73
+  - enabled: 1
     path: Assets/Scenes/JuegoZombies.unity
     guid: afc62e2ecdf8f3742834d495a55e6640
   m_configObjects:
